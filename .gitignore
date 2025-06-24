@@ -1,0 +1,23 @@
+# Ignore Frontend
+/frontend/node_modules/
+/front/.env
+
+
+# Ignore Backend
+/backend/sing-sense-venv
+/backend/__pycache__/
+/backend/assets
+/backend/*.pyc
+/backend/.env
+/backend/.cache
+
+# macOS or editor-specific
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
