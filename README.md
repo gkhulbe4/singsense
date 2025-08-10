@@ -11,6 +11,10 @@ Welcome to **SingSense**, a revolutionary web application born from a simple _"w
 
 ---
 
+Project video:- https://www.linkedin.com/posts/garvit-khulbe-60b671245_musictech-ai-reactjs-activity-7342852664793186305-jqW-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzJ2SsBEAPCw6krgQ3VzdT0AeD-T8fDCVE
+
+---
+
 ## 🌟 Features
 
 ### 🎤 In-Browser Voice Recording
